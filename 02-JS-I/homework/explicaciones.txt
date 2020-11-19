@@ -1,0 +1,41 @@
+Variables = 
+
+Se pueden pensar como cajas en donde almacenas cosas. Esto te permite, por ejemplo, trabajas de una manera más organizada.
+
+
+
+Strings = 
+
+Este es un tipo de dato, que son las palabras o cualquier cosa que este envuelta en comillas. La traducción literal de "string" es hilo.
+
+
+
+Funciones = 
+
+Son mini programas que te ayudan a no repetir código. Si tenes una tarea o una acción que la vas a hacer muchas veces, declaras una 
+
+función que realice esa acción en particular y asi te ahorras repitir siempre el mismo código. Una vez declarada la función, la "llamas" o la 
+
+ejecutas cada vez que la queres usar.
+
+Dentro de la función tenes argumentos, que se pasan dentro de paréntesis y luego del nombre de la función. Esto determina con qué elemento/
+
+elementos va a trabajar la función. Y luego, dentro de la función, debes agregar la palabra "return" y pasarle algo para que devuelva, ya que una 
+
+función siempre tiene que tener un valor de retorno si despues quiero trabajar por fuera de la función con ese valor o eso que realizó dentro.
+
+
+
+Declaraciones if = 
+
+Este tipo de declaraciónes te sirven para tomar decisiones. Uno plantea una condición, y si se cumple (o es verdadero) pasa algo determinado. De 
+
+lo contrario, pasa otra cosa.
+
+
+
+Valores booleanos =  
+
+Estos son unos tipos de datos que se definen en TRUE o FALSE. Otros tipos de datos son: strings, numeros, undefined y null. Los booleanos 
+
+se definen simplemente como true o false, como mencioné anteriormente, y te pueden servir para 
