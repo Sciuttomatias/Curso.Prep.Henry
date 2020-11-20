@@ -1,0 +1,28 @@
+FOR LOOPS = 
+
+
+Un "FOR LOOP" es una operación en Javascript que te permite iterar sobre una acción o un elemento particular X cantidad de veces.
+
+La particularidad de esta manera de iteración en Javascript es que se repite hasta que cierta expresión se evalúe como falsa. De esta manera, 
+
+podemos utilizar un FOR LOOP para ir recorriendo elementos X cantidad de veces.
+
+
+
+
+OPERADORES LóGICOS = 
+
+
+Los operadores lógicos te permiten, como lo dice la palabra, operar lógicamente sobre distintas expresiones.
+
+En el caso del && se puede traducir como un "Y", en donde si tenemos p y q como expresiones, y las DOS son verdaderas, 
+
+entonces se devuelve un valor booleano de TRUE.
+
+En en caso del || se puede traducir como un "O", en donde p y q AMBAS tienen que ser verdaderas, ya que si una de las dos 
+
+no se cumple, ya nos devuelve un FALSE.
+
+Y en el caso del signo de excalamción !, se puede traducir como un NO. Es decir, si tenemos una expresión como (10 !== 1000)
+
+nos va a devolver TRUE, ya que efectivamente 10 NO ES IGUAL A 1000.
