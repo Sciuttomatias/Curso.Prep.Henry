@@ -1,0 +1,49 @@
+Objetos = 
+
+Los objetos sirven para almacenar muchas cosas diferentes, y tambien para almacenar mucha información sobre una misma cosa.
+
+Mediante la "dinamica" de key-value, en donde key vendría a ser como la llave por ña cual se accede al value/valor, los objetos
+
+pueden guardar muchos datos diferentes dentro de ese "value" y pueden ser cualquier tipo de dato. Luego, para acceder a esa propiedad
+
+puedo usar la notación de puntos (DOT NOTATION). Por ejemplo: si tengo un objeto llamado PERSONA y quiero acceder al valor que está almacenado
+
+dentro de la llave NOMBRE, puedo hacer: PERSONA.NOMBRE y accedo a (por ejemplo) MATÍAS.
+
+
+
+
+Propiedades = 
+
+Las propiedades son justamente esta asociación entre la llave y el valor. Lo que mencioné anteriormente de esta dinámica de
+
+KEY-VALUE. Si la propiedad, es decir, el valor que esta almacenado dentro de una llave determinada, es una función, se dice que 
+
+es un MÉTODO.
+
+
+
+
+
+Bucles For...In = 
+
+Esta manera de iterar nos sirve para ejercerla particularmente sobre objetos, ya que vamos a poder recorrer cada clave/key del
+
+objeto. Si yo tengo un objeto llamado ANIMAL, y dentro tengo su edad, su nombre, su raza y su tamaño, podria ir recorriendo y accediendo
+
+a CADA una de sus propiedades. 
+
+
+
+
+Notación de puntos vs notación de corchetes = 
+
+Ambas son maneras de acceder a propiedades dentro de objetos. En la notación de puntos, accedo a la propiedad de un objeto poniendo
+
+primero el nombreDelObjeto seguido por un punto (.) y luego laPropiedadDelObjeto. 
+
+Por otro lado, la notación de corchetes tambien se puede usar para acceder a la propiedad de un objeto, con la diferencia que el nombre
+
+de la propiedad tiene que ir como un string dentro de los corchetes: nombreDelObjeto["laPropiedadDelObjeto"].
+
+
