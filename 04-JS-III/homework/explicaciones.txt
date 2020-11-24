@@ -1,0 +1,13 @@
+Arrays = 
+
+Los arrays son una manera de almacenar datos, que te permite luego acceder a esos datos. Se puede pensar como una caja vacia,
+
+en donde se le pueden ir agregando cosas. La caja vendria a ser el ARRAY, y los datos dentro vendrian a ser los objetos dentro
+
+de la caja. Los datos almacenados dentro del ARRAY pueden ser de distintos tipos (numeros, strings, funciones, etc) y puedes
+
+almacenar cuantos quieras o necesites. 
+
+Se puede decir que los ARRAYS son estructuras de datos, que se pueden guardar en una variable, y como mencioné anteriormente
+
+dentro del ARRAY (que a su vez esta almacenado en una variable) puedo guardar todos los datos que quiera.
