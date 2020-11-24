@@ -15,7 +15,7 @@ function obtenerMayor(x, y) {
 }
 
 function saludo(idioma) {
-  // Devuelve un saludo en tres diferentes lenguajes:
+  // devuelve un saludo en tres diferentes lenguajes:
   // Si "idioma" es "aleman", devuelve "Guten Tag!"
   // Si "idioma" es "mandarin", devuelve "Ni Hao!"
   // Si "idioma" es "ingles", devuelve "Hello!"
