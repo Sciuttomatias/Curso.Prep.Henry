@@ -1,0 +1,27 @@
+"Constructors" = 
+
+Son funciones que se utilizan para crear las plantillas que luego te serviran de modelo para construir 
+
+más objetos similares. La particularidad que tienen estas funciones constructoras de objetos es que no retornan
+
+nada, y que se utiliza la palabra clave this. Por ejemplo, si yo quiero crear un modelo de objeto que represente
+
+a una persona, puedo hacer lo siguiente:
+
+function Persona(nombre, apellido, edad){
+    this.nombre = nombre,
+    this.apellido = apellido,
+    this.edad= edad
+}
+                y luego puedo ejecutar la función antes creada para generar un nuevo
+                objeto (y en este caso, lo guardo dentro de una variable)
+
+let primeraPersona = new Persona("matias", "sciutto", 26);
+
+De esta manera, puedo construir muchos objetos de la misma manera, facilitandome mucho el proceso.
+
+
+
+
+
+ 

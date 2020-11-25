@@ -86,7 +86,7 @@ nuevoUsuario.username = 'otro.nombre.de.usuario';
 nuevoUsuario['password'] = '12345';
 nuevoUsuario[loveJSString] = true;
 ```
-
+ 
 ## Eliminando propiedades
 
 Si queremos eliminar una propiedad, podemos hacerlo usando la palabra clave `delete`:
