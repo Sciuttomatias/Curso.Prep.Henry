@@ -1,0 +1,50 @@
+#header {
+    position: fixed;
+    z-index: 1;
+    height:40px;
+    width: 98%;
+    background-color: #668284;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+#nombre {
+    float:center;
+    text-align: center;
+    font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color:blue;
+}
+
+#main {
+    padding-top: 15px;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+p {
+    line-height: 30px;
+}
+
+li{
+    line-height: 30px;
+}
+
+.contacto{
+    font-weight: bold;
+}
+
+#img {
+    height: 200px;
+    width: 150px;
+    position: fixed;
+    bottom: 500px;
+    right: 40px;
+}
