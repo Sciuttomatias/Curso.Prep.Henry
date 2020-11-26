@@ -1,0 +1,9 @@
+Funciones Callback = 
+
+A estas funciones se las llama a las que reciben A OTRA FUNCIÓN COMO ARGUMENTO. Luego, esta función que se pasó
+
+como argumento de otra, va a ser "llamada" más adelante. Es importante remarcar que cuando pasamos a una función
+
+como argumento, no la ejecutamos ahi dentro ( no le agregamos los paréntesis), sino que eso se hace en el cuerpo de 
+
+la función "mayor".
